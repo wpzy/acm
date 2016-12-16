@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1481693032 source:/home/wu/Desktop/acm/BFS/main.c
+1481855970 source:/home/wu/Desktop/acm/BFS/main.c
 	<stdio.h>
 	<stdlib.h>
 	<sys/queue.h>
 	<math.h>
+
+1481701049 source:/home/wu/Desktop/acm/BFS/LCS.c
+	<stdio.h>
 

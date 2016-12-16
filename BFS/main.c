@@ -12,9 +12,13 @@ int n;
 int calculate(int i,int j);
 int calculate2(int i,int j);
 int **dp;
+extern int LCS();
+extern int CoinMax();
 int main()
 {
-
+CoinMax();
+//LCS();
+/*
 scanf("%d",&n);
 weight=(int*)malloc(n*sizeof(int));
 value=(int*)malloc(n*sizeof(int));
@@ -55,6 +59,8 @@ for(i=0;i<=n;i++){
 
 int result=calculate2(n,we);
 printf("result is :%d",result);
+*/
+
     return 0;
 }
 
